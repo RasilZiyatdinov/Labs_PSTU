@@ -1,0 +1,57 @@
+﻿  Graph.cpp
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(110,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(113,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(322,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(343,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(350,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(364,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(366,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(382,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(383,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(385,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(386,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(392,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(394,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(409,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(410,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(416,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(418,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(434,34): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(434,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(435,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(437,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(438,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(444,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(446,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(461,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(462,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(469,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(471,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(486,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(487,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(493,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(495,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(510,33): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(510,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(511,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(517,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(519,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(534,33): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(535,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(566,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(577,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(609,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(610,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(614,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(615,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(619,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(619,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(654,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(655,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(755,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rasil\Desktop\Kommivoyager\Graph.cpp(830,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+  Kommivoyager.vcxproj -> C:\Users\Rasil\Desktop\Kommivoyager\Debug\Kommivoyager.exe
