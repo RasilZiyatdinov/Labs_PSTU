@@ -1,0 +1,12 @@
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.LoadForm.resources
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.exe
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.pdb
+C:\Users\Rasil\Desktop\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.LoadForm.resources
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.MyForm.resources
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.exe
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.pdb
+C:\Users\Rasil\Desktop\33 Разработка калькулятора Зиятдинов Расиль ИВТ-19-2б\Debug\Calculator.vcxprojAssemblyReference.cache
